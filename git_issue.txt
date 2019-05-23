@@ -1,3 +1,13 @@
 https://stackoverflow.com/questions/39064276/how-to-change-user-identity-when-git-pushing-via-ssh
 
 https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+https://stackoverflow.com/questions/348170/how-to-undo-git-add-before-commit
+
+https://sethrobertson.github.io/GitFixUm/fixup.html
+
+https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git   ******
+you can use multiple git reset HEAD~ to undo multiple commits
+
+
+https://stackoverflow.com/questions/20002557/how-to-remove-a-too-large-file-in-a-commit-when-my-branch-is-ahead-of-master-by *****
